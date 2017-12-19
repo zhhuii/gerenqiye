@@ -1,0 +1,190 @@
+*{
+    font-size: 12px;
+    color: black;
+}
+body{
+    background-color: #EAEAEA;
+}
+.content{
+    width:1200px;
+    margin:0 auto;
+}
+.zuo{
+    width: 186px;
+    height:935px;
+    background-color: #404040;
+    float: left;
+}
+.you{
+    width: 1014px;
+    float: right;
+    height:935px;
+    float: right;
+    overflow: auto;
+    background-color: #E0E2E2;
+}
+.zuo .zuo1{
+    width:186px;
+    height:184px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 30px;
+}
+.zuo .zuo1 .zuo11{
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 18px;
+}
+.zuo .zuo2{
+    width:186px;
+    height:351px;
+    position: relative;
+    top:0;
+    left:0;
+}
+.zuo .zuo2 .zuo21{
+    width:186px;
+    height:50px;
+    background-color: #CCCCCC;
+    background-image: url('../img/daohang1.png');
+    margin-bottom: 10px;
+    line-height: 50px;
+    color: #bfbfbf;
+    font-size: 16px;
+    text-indent: 5em;
+}
+.zuo .zuo2 .zuo22{
+    width:186px;
+    height:50px;
+    background-image: url('../img/daohang2.png');
+    margin-bottom: 10px;
+    line-height: 50px;
+    color: #bfbfbf;
+    font-size: 16px;
+    text-indent: 5em;
+}.zuo .zuo2 .zuo23{
+     width:186px;
+     height:50px;
+     background-image: url('../img/daohang3.png');
+     margin-bottom: 10px;
+     line-height: 50px;
+     color: #bfbfbf;
+     font-size: 16px;
+     text-indent: 5em;
+ }
+.zuo .zuo2 .zuo24{
+    width:186px;
+    height:50px;
+    background-image: url('../img/daohang4.png');
+    margin-bottom: 10px;
+    line-height: 50px;
+    color: #bfbfbf;
+    font-size: 16px;
+    text-indent: 5em;
+}.zuo .zuo2 .zuo25{
+     width:186px;
+     height:50px;
+     background-image: url('../img/daohang5.png');
+     line-height: 50px;
+     color: #bfbfbf;
+     font-size: 16px;
+     text-indent: 5em;
+ }
+.zuo .zuo3 .zuo31{
+    width: 160px;
+    height:351px;
+    float: right;
+}
+.zuo .zuo3 .zuo31 .zuo311{
+    height:19px;
+    margin-bottom: 20px;
+}
+.zuo .zuo3 .zuo31 .zuo311 a{
+    font-size: 14px;
+    color: #bfbfbf;
+}
+.you .you1{
+    width:995px;
+    height:226px;
+    padding-top: 70px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.you .you1 .you11{
+    margin-bottom: 27px;
+    font-size: 30px;
+    color: #467993;
+}
+.you .you1 .you12{
+    font-size: 24px;
+    color: #467993;
+}
+.you .you2{
+    width:995px;
+    background-color: #E0E2E2;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top:94px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+}
+.you .you2:last-child{
+    padding:0;
+}
+.you .you2 .you21{
+    width:450px;
+    height:470px;
+    float: left;
+}
+.you .you2 .you21 .you211{
+    width:90px;
+    height:132px;
+    float: left;
+    margin-top: 39px;
+}
+.you .you2 .you21 .you211 p:first-child{
+    font-size: 18px;
+    color: #404040;
+    margin-bottom: 20px;
+}
+.you .you2 .you21 .you211 p:last-child{
+    font-size: 14px;
+    color: #7f7f7f;
+}
+.you .you2 .you21 .you212{
+    width: 104px;
+    height: 135px;
+    float: left;
+    margin-left: 20px;
+    overflow: hidden;
+    margin-top: 39px;
+}
+.you .you2 .you21 .you212 p{
+    font-size: 14px;
+    color: #5f5e5e;
+    line-height: 27px;
+}
+.you .you2 .you21 .you213{
+    width: 150px;
+    height: 40px;
+    background: url(../img/q2.png) no-repeat;
+    float: left;
+    margin-left: 40px;
+    margin-top: 90px;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+.you .you2 .you22{
+    width:422px;
+    height:463px;
+    float: right;
+}
+.you .you2 .youtwo{
+    width: 879px;
+    height: 470px;
+    float: right;
+    margin-right: 25px;
+}

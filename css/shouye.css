@@ -1,0 +1,112 @@
+*{
+    font-size: 12px;
+    color: black;
+}
+body{
+    background-color: #EAEAEA;
+}
+.content{
+    width:1200px;
+    margin:0 auto;
+}
+.zuo{
+    width: 186px;
+    height:935px;
+    background-color: #404040;
+    float: left;
+}
+.you{
+    width: 1014px;
+    float: right;
+    height:935px;
+    position: relative;
+    overflow: scroll;
+}
+.zuo .zuo1{
+    width:186px;
+    height:184px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 30px;
+}
+.zuo .zuo1 .zuo11{
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 18px;
+}
+.zuo .zuo2{
+    width:186px;
+    height:351px;
+    position: relative;
+    top:0;
+    left:0;
+}
+.zuo .zuo2 .zuo21{
+    width:186px;
+    height:50px;
+    background-color: #CCCCCC;
+    background-image: url('../img/daohang1.png');
+    margin-bottom: 10px;
+    line-height: 50px;
+    color: #bfbfbf;
+    font-size: 16px;
+    text-indent: 5em;
+}
+.zuo .zuo2 .zuo211:hover{
+
+}
+.zuo .zuo2 .zuo22{
+    width:186px;
+    height:50px;
+    background-image: url('../img/daohang2.png');
+    margin-bottom: 10px;
+    line-height: 50px;
+    color: #bfbfbf;
+    font-size: 16px;
+    text-indent: 5em;
+}.zuo .zuo2 .zuo23{
+     width:186px;
+     height:50px;
+     background-image: url('../img/daohang3.png');
+     margin-bottom: 10px;
+     line-height: 50px;
+     color: #bfbfbf;
+     font-size: 16px;
+     text-indent: 5em;
+ }
+.zuo .zuo2 .zuo24{
+    width:186px;
+    height:50px;
+    background-image: url('../img/daohang4.png');
+    margin-bottom: 10px;
+    line-height: 50px;
+    color: #bfbfbf;
+    font-size: 16px;
+    text-indent: 5em;
+}.zuo .zuo2 .zuo25{
+     width:186px;
+     height:50px;
+     background-image: url('../img/daohang5.png');
+     line-height: 50px;
+     color: #bfbfbf;
+     font-size: 16px;
+     text-indent: 5em;
+ }
+ .zuo .zuo3 .zuo31{
+     width: 160px;
+     height:351px;
+     float: right;
+ }
+.zuo .zuo3 .zuo31 .zuo311{
+    height:19px;
+    margin-bottom: 20px;
+}
+.zuo .zuo3 .zuo31 .zuo311 a{
+    font-size: 14px;
+    color: #bfbfbf;
+}
+.you a img{
+    width:1014px;
+    height:485px;
+}
+

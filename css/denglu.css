@@ -1,0 +1,109 @@
+.content{
+    width:1200px;
+    margin:0 auto;
+}
+.zuo{
+    width: 186px;
+    height:935px;
+    background-color: #404040;
+    float: left;
+}
+.you{
+    width: 1013px;
+    height:935px;
+    overflow: auto;
+    background-image: url("../img/a11.jpg");
+    background-size: 1013px 935px;
+}
+.zuo .zuo1{
+     width:186px;
+     height:184px;
+     text-align: center;
+     box-sizing: border-box;
+     padding-top: 30px;
+ }
+.zuo .zuo1 .zuo11{
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 18px;
+}
+.zuo .zuo1 .zuo12{
+    margin-top: 42px;
+}
+.zuo .zuo1 .zuo12 a{
+    font-size: 16px;
+    color: #fff;
+}
+.you .you1{
+    width: 355px;
+    height: 66px;
+    margin: 0 auto;
+    border-bottom: 1px solid #fff;
+    font-size: 52px;
+    color: #fff;
+    text-align: center;
+    line-height: 58px;
+    margin-top: 184px;
+}
+.you .you2{
+    font-size: 32px;
+    color: #fff;
+    text-align: center;
+    margin-top: 71px;
+}
+.you .you2 .you21{
+    margin-top: 18px;
+}
+.you .you3{
+    width: 263px;
+    margin: 93px auto 0;
+}
+.you .you3 form{
+    display: block;
+    width:263px;
+    height:307px;
+}
+.you .you3 form .you31{
+    color: #fff;
+    font-size: 14px;
+}
+.you .you3 form .you32{
+    color: #fff;
+    font-size: 14px;
+}
+input{
+    display: block;
+}
+.you .you3 form .you311{
+    width:263px;
+    height:39px;
+    margin: 10px 0 20px;
+ }
+.you .you3 form .you312{
+    width:263px;
+    height:39px;
+    margin: 8px 0 15px;
+  }
+.you .you3 form .you33 .you331{
+    float: left;
+    color: #fff;
+    font-size: 14px;
+}
+.you .you3 form .you33 .you332{
+    float: right;
+    color: #fff;
+    font-size: 14px;
+}
+.you .you3 form .denglu{
+    width: 126px;
+    height: 40px;
+    background: url(../img/c3.png) no-repeat;
+    margin-left: 68px;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    margin-top: 95px;
+}
